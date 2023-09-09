@@ -17,11 +17,13 @@ This is a simple quiz web application built with HTML, CSS, and JavaScript. You 
      <li>Score tracking.</li>
 </ol>
 ## How to Use
-1. Clone this repository to your local machine:
-     git clone https://github.com/TRIPATHISHIWANSHI/quiz-app.git
+<ol>
+<li> Clone this repository to your local machine:<br>
+     git clone https://github.com/TRIPATHISHIWANSHI/quiz-app.git</li>
 
-2. Navigate to the project directory:
-     cd simple-quiz
+<li></li> Navigate to the project directory:<br>
+     cd simple-quiz</li>
+</ol>
 
 Open the index.html file in your web browser to start the quiz.
 
