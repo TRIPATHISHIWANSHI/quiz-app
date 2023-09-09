@@ -1,7 +1,7 @@
 # Simple Quiz Web App
 This is a simple quiz web application built with HTML, CSS, and JavaScript. You can use this app to test your knowledge by answering multiple-choice questions. The app will provide feedback on your answers and display your score at the end.
 
-*Table of Contents**
+***Table of Contents***
 Features
 How to Use
 Screenshots
@@ -15,10 +15,10 @@ Score tracking.
 
 ***How to Use***
 1. Clone this repository to your local machine:
-     git clone https://github.com/TRIPATHISHIWANSHI/quiz-app.git
+     .[git clone https://github.com/TRIPATHISHIWANSHI/quiz-app.git].
 
 2. Navigate to the project directory:
-     cd simple-quiz
+     .[cd simple-quiz].
 Open the index.html file in your web browser to start the quiz.
 
 Read each question carefully and click on the answer you think is correct.
