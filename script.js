@@ -1,82 +1,80 @@
 const questions=[
     {
-        question:"what will be the output of this code?",
+        question:"What is JavaScript primarily used for?",
         answers:[
-            {text:"122" ,correct:true},
-            {text:"32" ,correct:false},
-            {text:"NaN2" ,correct:false},
-            {text:"NaN" ,correct:false}
+            {text:"Styling web pages" ,correct:false},
+            {text:"Enhancing the layout of web pages" ,correct:false},
+            {text:"Adding interactivity to web pages" ,correct:true},
+            {text:" Creating web page content" ,correct:false}
         ]
     },
     {
-        question:"what will be the output of this code?",
+        question:" What will the following code output: `console.log(2 + '2');`?",
         answers:[
-            {text:"number" ,correct:false},
-            {text:"1" ,correct:false},
-            {text:"string" ,correct:true},
-            {text:"true" ,correct:false}
+            {text:"22" ,correct:true},
+            {text:"4" ,correct:false},
+            {text:"NaN" ,correct:false},
+            {text:"TypeError" ,correct:false}
         ]
     },
     {
-        question:"what will be the output of this code?",
+        question:"What does the addEventListener method do in JavaScript?",
         answers:[
-            {text:"122" ,correct:true},
-            {text:"32" ,correct:false},
-            {text:"NaN2" ,correct:false},
-            {text:"NaN" ,correct:false}
+            {text:"Adds a new element to the DOM" ,correct:false},
+            {text:"Adds a click event to an element" ,correct:false},
+            {text:" Listens for changes in the browser's history" ,correct:false},
+            {text:"Adds a function to run when an event occurs on an element" ,correct:true}
         ]
     },
     {
-        question:"what will be the output of this code?",
+        question:"what will be the output of this code?  3>2>1===false",
         answers:[
-            {text:"122" ,correct:true},
-            {text:"32" ,correct:false},
-            {text:"NaN2" ,correct:false},
-            {text:"NaN" ,correct:false}
+            {text:"true" ,correct:true},
+            {text:"false" ,correct:false}
         ]
     }, {
-        question:"what will be the output of this code?",
+        question:"Javascript is a _____ -side programming language.",
         answers:[
-            {text:"122" ,correct:true},
-            {text:"32" ,correct:false},
-            {text:"NaN2" ,correct:false},
+            {text:"Client" ,correct:false},
+            {text:"Server" ,correct:false},
+            {text:"Both" ,correct:true},
+            {text:"None" ,correct:false}
+        ]
+    },
+    {
+        question:"Which of the following event raised when key is pushed?",
+        answers:[
+            {text:"keyup" ,correct:false},
+            {text:"keypress" ,correct:false},
+            {text:"keydown" ,correct:true},
+            {text:"none of the above" ,correct:false}
+        ]
+    },
+    {
+        question:"When mouseup event will be raised?",
+        answers:[
+            {text:"When mouse performs a click" ,correct:false},
+            {text:"When the mouse button is pressed down" ,correct:false},
+            {text:"When the mouse cursor moves over an HTML element" ,correct:false},
+            {text:"When the mouse button is released" ,correct:true}
+        ]
+    },
+    {
+        question:"what will be the output of this code?     let a=this;  console.log(a);",
+        answers:[
+            {text:"this" ,correct:false},
+            {text:"Window" ,correct:true},
+            {text:"undefined" ,correct:false},
             {text:"NaN" ,correct:false}
         ]
     },
     {
-        question:"what will be the output of this code?",
+        question:"Which of the following variables takes precedence over the others if the names are the same?",
         answers:[
-            {text:"122" ,correct:true},
-            {text:"32" ,correct:false},
-            {text:"NaN2" ,correct:false},
-            {text:"NaN" ,correct:false}
-        ]
-    },
-    {
-        question:"what will be the output of this code?",
-        answers:[
-            {text:"122" ,correct:true},
-            {text:"32" ,correct:false},
-            {text:"NaN2" ,correct:false},
-            {text:"NaN" ,correct:false}
-        ]
-    },
-    {
-        question:"what will be the output of this code?",
-        answers:[
-            {text:"122" ,correct:true},
-            {text:"32" ,correct:false},
-            {text:"NaN2" ,correct:false},
-            {text:"NaN" ,correct:false}
-        ]
-    },
-    {
-        question:"what will be the output of this code?",
-        answers:[
-            {text:"122" ,correct:true},
-            {text:"32" ,correct:false},
-            {text:"NaN2" ,correct:false},
-            {text:"NaN" ,correct:false}
+            {text:"Global variable" ,correct:false},
+            {text:"The local variable" ,correct:true},
+            {text:"Both" ,correct:false},
+            {text:"None of the above" ,correct:false}
         ]
     }    
 ];
