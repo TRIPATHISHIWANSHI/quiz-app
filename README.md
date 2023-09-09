@@ -15,7 +15,7 @@ User-friendly interface.
 Instant feedback on answers.
 Score tracking.
 
-##<b> How to Use</b>
+## How to Use
 1. Clone this repository to your local machine:
      git clone https://github.com/TRIPATHISHIWANSHI/quiz-app.git
 
