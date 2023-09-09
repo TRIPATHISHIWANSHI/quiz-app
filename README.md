@@ -2,11 +2,12 @@
 This is a simple quiz web application built with HTML, CSS, and JavaScript. You can use this app to test your knowledge by answering multiple-choice questions. The app will provide feedback on your answers and display your score at the end.
 
 ## Table of Contents
-Features
-How to Use
-Screenshots
-Credits
-License
+<ol>
+     <li>Features</li>
+<li>>How to Use</li>
+<li>Screenshots</li>
+<li>Credits</li>
+<li>License</li>
 ## Features
 Multiple-choice questions.
 User-friendly interface.
@@ -33,6 +34,7 @@ After completing all the questions, the app will display your final score.
 You can choose to play the quiz again by clicking the "PLAY AGAIN" button.
 
 ## Screenshots
+<img width="923" alt="image" src="https://github.com/TRIPATHISHIWANSHI/quiz-app/assets/112747153/0a905327-1347-4a8b-a4f8-5f46ec3ad578">
 
 
 ## Credits
