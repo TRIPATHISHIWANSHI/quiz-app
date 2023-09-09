@@ -7,7 +7,7 @@ How to Use
 Screenshots
 Credits
 License
-***Features***
+## Features
 Multiple-choice questions.
 User-friendly interface.
 Instant feedback on answers.
@@ -15,10 +15,10 @@ Score tracking.
 
 ***How to Use***
 1. Clone this repository to your local machine:
-     .[git clone https://github.com/TRIPATHISHIWANSHI/quiz-app.git].
+     git clone https://github.com/TRIPATHISHIWANSHI/quiz-app.git
 
 2. Navigate to the project directory:
-     .[cd simple-quiz].
+     cd simple-quiz
 Open the index.html file in your web browser to start the quiz.
 
 Read each question carefully and click on the answer you think is correct.
@@ -35,7 +35,7 @@ You can choose to play the quiz again by clicking the "PLAY AGAIN" button.
 
 
 ***Credits***
-This project was created by [SHIWANSHI TRIPATHI].
+This project was created by SHIWANSHI TRIPATHI
 Questions for the quiz were inspired by various sources.
 ***License***
 This project is licensed under the MIT License. Feel free to use and modify the code for your own purposes.
