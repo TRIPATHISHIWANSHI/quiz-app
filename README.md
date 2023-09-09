@@ -19,6 +19,7 @@ Score tracking.
 
 2. Navigate to the project directory:
      cd simple-quiz
+
 Open the index.html file in your web browser to start the quiz.
 
 Read each question carefully and click on the answer you think is correct.
