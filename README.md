@@ -15,12 +15,12 @@ User-friendly interface.
 Instant feedback on answers.
 Score tracking.
 
-## How to Use
+##<b> How to Use</b>
 1. Clone this repository to your local machine:
      git clone https://github.com/TRIPATHISHIWANSHI/quiz-app.git
 
 2. Navigate to the project directory:
-     <p style="color:blue">cd simple-quiz</p>
+     cd simple-quiz
 
 Open the index.html file in your web browser to start the quiz.
 
