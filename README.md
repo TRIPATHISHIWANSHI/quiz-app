@@ -1,7 +1,7 @@
-#Simple Quiz Web App
+# Simple Quiz Web App
 This is a simple quiz web application built with HTML, CSS, and JavaScript. You can use this app to test your knowledge by answering multiple-choice questions. The app will provide feedback on your answers and display your score at the end.
 
-**Table of Contents**
+*Table of Contents**
 Features
 How to Use
 Screenshots
