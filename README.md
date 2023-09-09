@@ -1,5 +1,5 @@
 # Simple Quiz Web App
-This is a simple quiz web application built with HTML, CSS, and JavaScript. You can use this app to test your knowledge by answering multiple-choice questions. The app will provide feedback on your answers and display your score at the end.
+🚀 This is a simple quiz web application 📋 built with HTML, CSS, and JavaScript. 🖥️ You can use this app to test your knowledge 🧠 by answering multiple-choice questions. 📝 The app will provide feedback on your answers ✅❌ and display your score at the end. 🎯📊
 
 ## Table of Contents
 <ol>
@@ -16,7 +16,7 @@ This is a simple quiz web application built with HTML, CSS, and JavaScript. You 
      <li>Instant feedback on answers.</li>
      <li>Score tracking.</li>
 </ol>
-## How to Use
+<h3>How to Use</h3>
 <ol>
 <li> Clone this repository to your local machine:<br>
      git clone https://github.com/TRIPATHISHIWANSHI/quiz-app.git</li>
