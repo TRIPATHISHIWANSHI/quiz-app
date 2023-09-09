@@ -4,17 +4,18 @@ This is a simple quiz web application built with HTML, CSS, and JavaScript. You 
 ## Table of Contents
 <ol>
      <li>Features</li>
-<li>How to Use</li>
-<li>Screenshots</li>
-<li>Credits</li>
-<li>License</li>
+     <li>How to Use</li>
+     <li>Screenshots</li>
+     <li>Credits</li>
+     <li>License</li>
 </ol>
 ## Features
-Multiple-choice questions.
-User-friendly interface.
-Instant feedback on answers.
-Score tracking.
-
+<ol type="i">
+     <li>Multiple-choice questions.</li>
+     <li>User-friendly interface.</li>
+     <li>Instant feedback on answers.</li>
+     <li>Score tracking.</li>
+</ol>
 ## How to Use
 1. Clone this repository to your local machine:
      git clone https://github.com/TRIPATHISHIWANSHI/quiz-app.git
