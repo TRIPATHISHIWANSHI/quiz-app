@@ -7,6 +7,7 @@
      <li>How to Use</li>
      <li>Screenshots</li>
      <li>Credits</li>
+     <li>WORKING OF THE PROJECT URL</li>
      <li>License</li>
 </ol>
 <h3> Features</h3>
@@ -44,6 +45,8 @@ You can choose to play the quiz again by clicking the "PLAY AGAIN" button.
 ## Credits
 This project was created by SHIWANSHI TRIPATHI
 Questions for the quiz were inspired by various sources.
+## Working of the project url
+Go to this url: https://tripathishiwanshi.github.io/quiz-app/
 ## License
 This project is licensed under the MIT License. Feel free to use and modify the code for your own purposes.
 
