@@ -9,7 +9,7 @@ This is a simple quiz web application built with HTML, CSS, and JavaScript. You 
      <li>Credits</li>
      <li>License</li>
 </ol>
-** Features
+** Features **
 <ol type="i">
      <li>Multiple-choice questions.</li>
      <li>User-friendly interface.</li>
