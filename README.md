@@ -4,10 +4,11 @@ This is a simple quiz web application built with HTML, CSS, and JavaScript. You 
 ## Table of Contents
 <ol>
      <li>Features</li>
-<li>>How to Use</li>
+<li>How to Use</li>
 <li>Screenshots</li>
 <li>Credits</li>
 <li>License</li>
+</ol>
 ## Features
 Multiple-choice questions.
 User-friendly interface.
@@ -19,7 +20,7 @@ Score tracking.
      git clone https://github.com/TRIPATHISHIWANSHI/quiz-app.git
 
 2. Navigate to the project directory:
-     cd simple-quiz
+     <p style="color:blue">cd simple-quiz</p>
 
 Open the index.html file in your web browser to start the quiz.
 
